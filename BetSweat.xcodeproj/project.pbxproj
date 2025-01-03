@@ -14,6 +14,8 @@
 		C98F756E2D27DFFD0025FC7E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98F756D2D27DFFD0025FC7E /* Persistence.swift */; };
 		C98F75712D27DFFD0025FC7E /* BetSweat.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C98F756F2D27DFFD0025FC7E /* BetSweat.xcdatamodeld */; };
 		C98F75782D27E61C0025FC7E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98F75772D27E61C0025FC7E /* HomeView.swift */; };
+		C98F757A2D2853790025FC7E /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98F75792D2853790025FC7E /* LoginView.swift */; };
+		C98F757E2D2854260025FC7E /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98F757D2D2854260025FC7E /* SignUpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		C98F756D2D27DFFD0025FC7E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		C98F75702D27DFFD0025FC7E /* BetSweat.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BetSweat.xcdatamodel; sourceTree = "<group>"; };
 		C98F75772D27E61C0025FC7E /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		C98F75792D2853790025FC7E /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		C98F757D2D2854260025FC7E /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				C98F75642D27DFFA0025FC7E /* BetSweatApp.swift */,
 				C98F75662D27DFFA0025FC7E /* ContentView.swift */,
 				C98F75772D27E61C0025FC7E /* HomeView.swift */,
+				C98F75792D2853790025FC7E /* LoginView.swift */,
+				C98F757D2D2854260025FC7E /* SignUpView.swift */,
 				C98F75682D27DFFD0025FC7E /* Assets.xcassets */,
 				C98F756D2D27DFFD0025FC7E /* Persistence.swift */,
 				C98F756F2D27DFFD0025FC7E /* BetSweat.xcdatamodeld */,
@@ -146,8 +152,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C98F757A2D2853790025FC7E /* LoginView.swift in Sources */,
 				C98F75712D27DFFD0025FC7E /* BetSweat.xcdatamodeld in Sources */,
 				C98F756E2D27DFFD0025FC7E /* Persistence.swift in Sources */,
+				C98F757E2D2854260025FC7E /* SignUpView.swift in Sources */,
 				C98F75672D27DFFA0025FC7E /* ContentView.swift in Sources */,
 				C98F75782D27E61C0025FC7E /* HomeView.swift in Sources */,
 				C98F75652D27DFFA0025FC7E /* BetSweatApp.swift in Sources */,
