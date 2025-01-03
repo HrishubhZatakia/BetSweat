@@ -13,6 +13,7 @@
 		C98F756C2D27DFFD0025FC7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C98F756B2D27DFFD0025FC7E /* Preview Assets.xcassets */; };
 		C98F756E2D27DFFD0025FC7E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98F756D2D27DFFD0025FC7E /* Persistence.swift */; };
 		C98F75712D27DFFD0025FC7E /* BetSweat.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C98F756F2D27DFFD0025FC7E /* BetSweat.xcdatamodeld */; };
+		C98F75782D27E61C0025FC7E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98F75772D27E61C0025FC7E /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		C98F756B2D27DFFD0025FC7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C98F756D2D27DFFD0025FC7E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		C98F75702D27DFFD0025FC7E /* BetSweat.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BetSweat.xcdatamodel; sourceTree = "<group>"; };
+		C98F75772D27E61C0025FC7E /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				C98F75642D27DFFA0025FC7E /* BetSweatApp.swift */,
 				C98F75662D27DFFA0025FC7E /* ContentView.swift */,
+				C98F75772D27E61C0025FC7E /* HomeView.swift */,
 				C98F75682D27DFFD0025FC7E /* Assets.xcassets */,
 				C98F756D2D27DFFD0025FC7E /* Persistence.swift */,
 				C98F756F2D27DFFD0025FC7E /* BetSweat.xcdatamodeld */,
@@ -146,6 +149,7 @@
 				C98F75712D27DFFD0025FC7E /* BetSweat.xcdatamodeld in Sources */,
 				C98F756E2D27DFFD0025FC7E /* Persistence.swift in Sources */,
 				C98F75672D27DFFA0025FC7E /* ContentView.swift in Sources */,
+				C98F75782D27E61C0025FC7E /* HomeView.swift in Sources */,
 				C98F75652D27DFFA0025FC7E /* BetSweatApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
